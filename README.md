@@ -9,7 +9,7 @@ bash Mambaforge-$(uname)-$(uname -m).sh
 mamba init bash
 ```
 
-En maak daarna de environement met:
+En maak daarna de environment met:
 ```sh
 mamba env create -f environment.yml
 ```
