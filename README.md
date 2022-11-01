@@ -17,9 +17,11 @@ En maak daarna de environment met:
 mamba env create -f environment.yml
 ```
 ## Mac
+**Niet alle packages zijn beschikbaar voor MacOS dus dit is eigenlijk vrij nutteloos.**
+
 Installeer mambaforge via de officiële documentatie.
 
-En maak nu je environement met:
+En maak nu je environment met:
 ```sh
 mamba env create -f environment_mac.yml
 ```
