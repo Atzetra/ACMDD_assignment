@@ -1,0 +1,16 @@
+name: CBR_Mac
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - teachopencadd
+  - pip
+  - python
+  - jupyter
+  - h5py
+  - pip:
+    - vina
+    - py3dmol
+    - oddt
+    - tensorflow
