@@ -1,6 +1,8 @@
 # ACMDD_assignment (CDK2)
 ## Team members
 - Enzo Sastrokarijo (s1993895)
+- Donald van Pinxteren
+- Rosalie Drinkwaard
 
 # Setup mamba environement
 
