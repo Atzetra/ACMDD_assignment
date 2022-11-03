@@ -1,5 +1,5 @@
-# CBR_teaching
-Repo for the CBR teaching lab, contains data, images and 
+# ACMDD_assignment
+- Enzo Sastrokarijo (s1993895)
 
 # Setup mamba environement
 
