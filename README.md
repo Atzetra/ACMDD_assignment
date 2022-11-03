@@ -1,4 +1,5 @@
-# ACMDD_assignment
+# ACMDD_assignment (CDK2)
+## Team members
 - Enzo Sastrokarijo (s1993895)
 
 # Setup mamba environement
