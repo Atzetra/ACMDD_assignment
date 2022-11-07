@@ -2,7 +2,7 @@
 ## Team members
 - Enzo Sastrokarijo (s1993895)
 - Donald van Pinxteren (s1956582)
-- Rosalie Drinkwaard
+- Rosalie Drinkwaard (s2166291)
 
 # Setup mamba environement
 
